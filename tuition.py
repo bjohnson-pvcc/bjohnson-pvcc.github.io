@@ -1,4 +1,4 @@
-# Name: your-name-here
+# Name: Brooks Johnson
 # Prog Purpose: This program computes college tuition & fees based on number of credits
 # BVCC Fee Rates are from: RTTps://www.pvce.edu/Tuition-and-fees
 # NOTE: All fees are PER CREDIT
