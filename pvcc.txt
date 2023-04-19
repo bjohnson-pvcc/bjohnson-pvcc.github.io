@@ -1,0 +1,28 @@
+
+CERTIFICATE: Computer & Network Support Technologies------------------------------------------------------------------------
+Number of required courses    :3
+umber of elective courses    :22
+Total number of Cert. courses :25------------------------------------------------------------------------
+ll Certificate courses: *ITP 200 *MTH 131 *ETR 149 CSC 110 
+*ITP 132 *ETR 203 *ITP 120 *ITN 260 *MTH 161 
+ITN 101 *ITN 170 *ITP 290 *ETR 113 *ITN 120 
+*ITN 151 *CSC 201 *ITP 220 *ETR 290 *CSC 202 
+*MTH 263 *MTH 162 *ITN 106 *CSC 205 *ITN 290 
+ETR 164 
+NOTES:
+   *Asterisk indicates ELECTIVE course
+   Studenst choose 3 technical elective course------------------------------------------------------------------------
+CERTIFICATE: Computer & Network Support Technologies------------------------------------------------------------------------
+Number of required courses    :3
+Number of elective courses    :22
+Total number of Cert. courses :25------------------------------------------------------------------------
+All Certificate courses: *ITP 200 *MTH 131 *ETR 149 CSC 110 
+*ITP 132 *ETR 203 *ITP 120 *ITN 260 *MTH 161 
+ITN 101 *ITN 170 *ITP 290 *ETR 113 *ITN 120 
+*ITN 151 *CSC 201 *ITP 220 *ETR 290 *CSC 202 
+*MTH 263 *MTH 162 *ITN 106 *CSC 205 *ITN 290 
+ETR 164 
+NOTES:
+   *Asterisk indicates ELECTIVE course
+   Studenst choose 3 technical elective course------------------------------------------------------------------------------------------------------------------------------------------------
+REQUIRED courses in both programs:ETR 164 ITN 101 CSC 110 
