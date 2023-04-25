@@ -47,7 +47,7 @@ def display_network_courses():
     out.write("\nCERTIFICATE: Computer & Network Support Technologies")
     out.write(dash_line)
     out.write("\nNumber of required courses    :" + str(num_net_req))
-    out.write("\number of elective courses    :" + str(num_net_elect))
+    out.write("\nNumber of elective courses    :" + str(num_net_elect))
     out.write("\nTotal number of Cert. courses :" + str(tot_net))
     out.write(dash_line)
     out.write("\nll Certificate courses: ")
